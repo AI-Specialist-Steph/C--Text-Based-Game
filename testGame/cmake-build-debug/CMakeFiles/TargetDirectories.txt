@@ -1,0 +1,3 @@
+/Users/acsb/CLionProjects/testGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/acsb/CLionProjects/testGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/acsb/CLionProjects/testGame/cmake-build-debug/CMakeFiles/testGame.dir
